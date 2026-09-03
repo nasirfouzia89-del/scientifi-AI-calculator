@@ -1,0 +1,6 @@
+{
+  "name": "Scientific Calculator with Gemini AI",
+  "description": "Scientific calculator with step-by-step AI Explanation and interactive AI Math Tutor powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
